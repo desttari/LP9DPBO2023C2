@@ -42,13 +42,17 @@ Program di atas merupakan aplikasi sederhana berbasis GUI (Graphical User Interf
 
 ### Batasan Program:
 1. Program hanya menampilkan data hunian yang telah didefinisikan secara statis dalam kode program. Data tersebut tidak dapat diubah atau ditambahkan oleh pengguna.
-2. Gambar hunian diambil dari URL yang telah ditentukan dalam kode program. Jika gambar tidak tersedia atau terjadi kesalahan dalam mengakses gambar, pesan kesalahan akan ditampilkan.
+2. Gambar apartemen, iindekos dan rumah diambil dari URL yang telah ditentukan dalam kode program. Jika gambar tidak tersedia atau terjadi kesalahan dalam mengakses gambar, pesan kesalahan akan ditampilkan.
 3. Program ini tidak memiliki fitur untuk mengedit atau menghapus data hunian.
 4. Program hanya menampilkan informasi dasar tentang hunian seperti jenis, nama pemilik/penghuni, jumlah penghuni, jumlah kamar, harga, serta informasi khusus terkait jenis hunian tertentu seperti luas tanah atau luas kamar. Fitur-fitur lain seperti pencarian atau pengurutan data tidak tersedia dalam program ini.
 5. Program ini bersifat sederhana dan hanya digunakan sebagai contoh latihan implementasi GUI dasar menggunakan Python.
 6. Karena menggunakan URL luar untuk gambar, harus menginstal `PIL (Python Imaging Library)` dan `urllib libraries`.
 
 ### Preview Program
+
+
+https://github.com/desttari/LP9DPBO2023C2/assets/100773981/8fa832ec-3718-4191-b276-fcf1922a0de2
+
 
 
 
